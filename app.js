@@ -3,7 +3,7 @@ import chalk from "chalk";
 console.log("Hello world!");
 
 const string =
-  "Jeg pleier å be ungene om å stille seg i hjørnet om de klager på at det er kaldt, det er jo 90 grader der";
+  "Jeg har ikke kjæreste, jeg bare kjenner en jente som hadde blitt jævelig sur hvis hun hørte meg si det";
 
 const words = string.split(" ");
 
